@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Datos de HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "No se pudo descubrir el endpoint de la API de HLTB."
+   },
+   "error_network": {
+      "message": "Error de red al obtener los datos de HLTB."
+   },
+   "error_no_match": {
+      "message": "Sin resultados en HowLongToBeat."
+   },
+   "ext_description": {
+      "message": "Muestra los tiempos de How Long To Beat en las páginas de juegos de Steam."
+   },
+   "ext_name": {
+      "message": "HLTB para Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: cargando…"
+   },
+   "popup_cache_size": {
+      "message": "Juegos en caché: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "Borrar caché"
+   },
+   "popup_cleared": {
+      "message": "Caché borrado."
+   },
+   "popup_status_ok": {
+      "message": "Listo. Abre cualquier página de un juego en Steam para ver el tiempo de juego."
+   },
+   "popup_title": {
+      "message": "HLTB para Steam"
+   },
+   "stat_completionist": {
+      "message": "Completista"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "Historia principal"
+   },
+   "stat_main_sides": {
+      "message": "Principal + Secundarias"
+   },
+   "unit_hours_short": {
+      "message": "h"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "Ver en HLTB"
+   }
+}

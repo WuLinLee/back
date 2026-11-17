@@ -1,0 +1,32 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/icon16.png",
+         "32": "icons/icon32.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "lib/i18n.js", "content.js" ],
+      "matches": [ "https://store.steampowered.com/app/*" ],
+      "run_at": "document_idle"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "host_permissions": [ "https://howlongtobeat.com/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqXq6JpPhmzVSGKHtKQdMQq4Dqxf4lemtyewgHVE/FTnqfcCC8voW4aM8LScKMAn0XcF9+NQM8cGQ/ROc8xAE2DZZT9yYgfE0ceBOjFgCZDwaWNRv5mlElQJbw0o2FaIWfZVgZppqGNtgvi4/GZoGmdcydSjIYfT7dyDmVOkZEq1PUQEAMO5JkoixUHzLmjJCoceIglAoRV45x06w12aisdHpJLzehotWPhxjaYCfl8yWS6GKU7GdMeHOFr5VmN6s+j8BsVSIXTIll+avy41YrBoibA2bhac7tl1Qa8mcucGqGWD8fZAKn0JjrZRXZWKaw3RXZ+vNeYTYwUFbFc4SXwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_ext_name__",
+   "permissions": [ "storage", "declarativeNetRequestWithHostAccess" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.8"
+}

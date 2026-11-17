@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Veriler HowLongToBeat.com'dan"
+   },
+   "error_endpoint": {
+      "message": "HLTB API uç noktası belirlenemedi."
+   },
+   "error_network": {
+      "message": "HLTB verilerini alırken ağ hatası oluştu."
+   },
+   "error_no_match": {
+      "message": "HowLongToBeat'te eşleşme bulunamadı."
+   },
+   "ext_description": {
+      "message": "Steam oyun sayfalarında How Long To Beat oynama sürelerini gösterir."
+   },
+   "ext_name": {
+      "message": "Steam için HLTB"
+   },
+   "loading": {
+      "message": "HowLongToBeat: yükleniyor…"
+   },
+   "popup_cache_size": {
+      "message": "Önbellekteki oyunlar: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "Önbelleği temizle"
+   },
+   "popup_cleared": {
+      "message": "Önbellek temizlendi."
+   },
+   "popup_status_ok": {
+      "message": "Hazır. Oynama süresini görmek için herhangi bir Steam oyun sayfasını açın."
+   },
+   "popup_title": {
+      "message": "Steam için HLTB"
+   },
+   "stat_completionist": {
+      "message": "Tamamlamacı"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "Ana Hikaye"
+   },
+   "stat_main_sides": {
+      "message": "Ana + Yan"
+   },
+   "unit_hours_short": {
+      "message": "sa"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "HLTB'de görüntüle"
+   }
+}

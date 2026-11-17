@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Powered by HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "HLTB APIエンドポイントを特定できませんでした。"
+   },
+   "error_network": {
+      "message": "HLTBデータの取得中にネットワークエラーが発生しました。"
+   },
+   "error_no_match": {
+      "message": "HowLongToBeatに一致するゲームが見つかりませんでした。"
+   },
+   "ext_description": {
+      "message": "SteamのゲームページにHow Long To Beatのプレイ時間を表示します。"
+   },
+   "ext_name": {
+      "message": "HLTB for Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: 読み込み中…"
+   },
+   "popup_cache_size": {
+      "message": "キャッシュ済みのゲーム: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "キャッシュを消去"
+   },
+   "popup_cleared": {
+      "message": "キャッシュを消去しました。"
+   },
+   "popup_status_ok": {
+      "message": "準備完了。Steamのゲームページを開いてプレイ時間を確認してください。"
+   },
+   "popup_title": {
+      "message": "HLTB for Steam"
+   },
+   "stat_completionist": {
+      "message": "コンプリート"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "メインストーリー"
+   },
+   "stat_main_sides": {
+      "message": "メイン + サブ"
+   },
+   "unit_hours_short": {
+      "message": "時間"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "HLTBで見る"
+   }
+}

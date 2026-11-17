@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Powered by HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "HLTB API 엔드포인트를 찾을 수 없습니다."
+   },
+   "error_network": {
+      "message": "HLTB 데이터를 가져오는 중 네트워크 오류가 발생했습니다."
+   },
+   "error_no_match": {
+      "message": "HowLongToBeat에서 일치하는 게임을 찾지 못했습니다."
+   },
+   "ext_description": {
+      "message": "Steam 게임 페이지에 How Long To Beat 플레이 시간을 표시합니다."
+   },
+   "ext_name": {
+      "message": "HLTB for Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: 불러오는 중…"
+   },
+   "popup_cache_size": {
+      "message": "캐시된 게임: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "캐시 지우기"
+   },
+   "popup_cleared": {
+      "message": "캐시를 지웠습니다."
+   },
+   "popup_status_ok": {
+      "message": "준비 완료. Steam 게임 페이지를 열어 플레이 시간을 확인하세요."
+   },
+   "popup_title": {
+      "message": "HLTB for Steam"
+   },
+   "stat_completionist": {
+      "message": "올 클리어"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "메인 스토리"
+   },
+   "stat_main_sides": {
+      "message": "메인 + 서브"
+   },
+   "unit_hours_short": {
+      "message": "시간"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "HLTB에서 보기"
+   }
+}

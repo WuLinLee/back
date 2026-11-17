@@ -1,0 +1,69 @@
+{
+   "attribution": {
+      "message": "Powered by HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "Could not discover HLTB API endpoint."
+   },
+   "error_network": {
+      "message": "Network error while fetching HLTB data."
+   },
+   "error_no_match": {
+      "message": "No match found on HowLongToBeat."
+   },
+   "ext_description": {
+      "description": "Short description of the extension.",
+      "message": "Shows How Long To Beat playtime on Steam game pages."
+   },
+   "ext_name": {
+      "description": "Extension name shown in Chrome Web Store and toolbar.",
+      "message": "HLTB for Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: loading…"
+   },
+   "popup_cache_size": {
+      "message": "Cached games: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "Clear cache"
+   },
+   "popup_cleared": {
+      "message": "Cache cleared."
+   },
+   "popup_status_ok": {
+      "message": "Ready. Open any Steam game page to see playtime."
+   },
+   "popup_title": {
+      "message": "HLTB for Steam"
+   },
+   "stat_completionist": {
+      "message": "Completionist"
+   },
+   "stat_hltb": {
+      "description": "Brand-named headline stat on HLTB (average across all play styles). Not translated.",
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "Main Story"
+   },
+   "stat_main_sides": {
+      "message": "Main + Sides"
+   },
+   "unit_hours_short": {
+      "description": "Short unit for hours displayed after numeric value.",
+      "message": "h"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "View on HLTB"
+   }
+}

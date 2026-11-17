@@ -1,0 +1,24 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://store.steampowered.com/app/*", "*://store.steampowered.com/wishlist/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "用于查询游戏在Steampy上的价格 - 支持商店与愿望单",
+   "host_permissions": [ "*://steampy.com/*", "*://store.steampowered.com/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzlTZYlOyrS+G2C+nBaTnE5KIa57SwDaOb+NXBmCcUyOKYYRunMJ3kQPVXsnKY9Wh3UQmQeLRX8VjXQeT7ae/7vp/RN7mpvUvRL3FSKJY6zgiISyvuVQHpq0lC7uYoQl88YHfISsOX7sn9aXLEIVbjHu8Iq3hoaGm1rTKrABjs/2OVCaNmCp1s7+47LrDTfXymZkzD7DkM4N26QIPQoh9gDCr+yhbC0gaZIe01TMCZgcikKeCAX0HEFTuY8wqzD9Vg/wbF+s4r7oxVGdMH25224b88c9SdFw0kN1FG2a3Pzh+LQ30DpcDybWaD6t5wGftl+16d1jbt1jMA3my/9p7DwIDAQAB",
+   "manifest_version": 3,
+   "name": "PY查价助手",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

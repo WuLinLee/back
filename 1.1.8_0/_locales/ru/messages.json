@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Данные с HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "Не удалось определить API-эндпоинт HLTB."
+   },
+   "error_network": {
+      "message": "Сетевая ошибка при запросе к HLTB."
+   },
+   "error_no_match": {
+      "message": "Игра не найдена на HowLongToBeat."
+   },
+   "ext_description": {
+      "message": "Показывает время прохождения с HowLongToBeat на страницах игр Steam."
+   },
+   "ext_name": {
+      "message": "HLTB для Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: загрузка…"
+   },
+   "popup_cache_size": {
+      "message": "В кеше игр: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "Очистить кеш"
+   },
+   "popup_cleared": {
+      "message": "Кеш очищен."
+   },
+   "popup_status_ok": {
+      "message": "Готово. Откройте страницу любой игры в Steam, чтобы увидеть данные."
+   },
+   "popup_title": {
+      "message": "HLTB для Steam"
+   },
+   "stat_completionist": {
+      "message": "На 100%"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "Основной сюжет"
+   },
+   "stat_main_sides": {
+      "message": "Сюжет + побочки"
+   },
+   "unit_hours_short": {
+      "message": "ч"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "Открыть на HLTB"
+   }
+}

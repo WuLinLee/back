@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "Дані з HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "Не вдалося визначити API-ендпоінт HLTB."
+   },
+   "error_network": {
+      "message": "Мережева помилка при запиті до HLTB."
+   },
+   "error_no_match": {
+      "message": "Гру не знайдено на HowLongToBeat."
+   },
+   "ext_description": {
+      "message": "Показує час проходження з HowLongToBeat на сторінках ігор Steam."
+   },
+   "ext_name": {
+      "message": "HLTB для Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat: завантаження…"
+   },
+   "popup_cache_size": {
+      "message": "У кеші ігор: $COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "Очистити кеш"
+   },
+   "popup_cleared": {
+      "message": "Кеш очищено."
+   },
+   "popup_status_ok": {
+      "message": "Готово. Відкрийте сторінку будь-якої гри в Steam, щоб побачити дані."
+   },
+   "popup_title": {
+      "message": "HLTB для Steam"
+   },
+   "stat_completionist": {
+      "message": "На 100%"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "Основний сюжет"
+   },
+   "stat_main_sides": {
+      "message": "Сюжет + побічні"
+   },
+   "unit_hours_short": {
+      "message": "год."
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "Відкрити на HLTB"
+   }
+}

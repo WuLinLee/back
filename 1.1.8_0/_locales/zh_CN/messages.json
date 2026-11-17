@@ -1,0 +1,65 @@
+{
+   "attribution": {
+      "message": "数据来自 HowLongToBeat.com"
+   },
+   "error_endpoint": {
+      "message": "无法发现 HLTB API 端点。"
+   },
+   "error_network": {
+      "message": "获取 HLTB 数据时出现网络错误。"
+   },
+   "error_no_match": {
+      "message": "在 HowLongToBeat 上未找到匹配项。"
+   },
+   "ext_description": {
+      "message": "在 Steam 游戏页面上显示 How Long To Beat 通关时间。"
+   },
+   "ext_name": {
+      "message": "HLTB for Steam"
+   },
+   "loading": {
+      "message": "HowLongToBeat：加载中…"
+   },
+   "popup_cache_size": {
+      "message": "已缓存的游戏：$COUNT$",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "12"
+         }
+      }
+   },
+   "popup_clear_cache": {
+      "message": "清除缓存"
+   },
+   "popup_cleared": {
+      "message": "缓存已清除。"
+   },
+   "popup_status_ok": {
+      "message": "已就绪。打开任意 Steam 游戏页面查看通关时间。"
+   },
+   "popup_title": {
+      "message": "HLTB for Steam"
+   },
+   "stat_completionist": {
+      "message": "完美通关"
+   },
+   "stat_hltb": {
+      "message": "HowLongToBeat"
+   },
+   "stat_main": {
+      "message": "主线剧情"
+   },
+   "stat_main_sides": {
+      "message": "主线 + 支线"
+   },
+   "unit_hours_short": {
+      "message": "小时"
+   },
+   "value_unknown": {
+      "message": "—"
+   },
+   "view_on_hltb": {
+      "message": "在 HLTB 上查看"
+   }
+}
